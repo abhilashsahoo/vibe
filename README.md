@@ -2,6 +2,8 @@
 
 A modern **Next.js 16** startup template with **React 19**, **TypeScript**, and the App Router. Single-page landing with theme switcher, color picker, and responsive sections (hero, features, pricing, contact, and more).
 
+**Live site:** [vibe.infyways.com](https://vibe.infyways.com)
+
 ## Prerequisites
 
 - **Node.js** 20.9 or later ([download](https://nodejs.org/))
